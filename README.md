@@ -6,6 +6,19 @@
   <p align="center">
 NEOM is where the present and future of renewable energy converge. Thanks to its location, it offers a unique vantage point for leveraging wind power in one innovative dual system, paving the way for the next frontier in clean energy.
  ́ Renewable energy remains one of the most important topics for a sustainable future. Wind, being a perennial source of power, could be utilized to satisfy our power requirements. With the rise of wind farms, wind power forecasting would prove to be quite useful.
+  
+  
+  
+  
+  in our project there is a solution based on Long Short-Term Memory (LSTM) networks
+The model performed well on the training data as well as the test data, and the measurement used to estimate the accuracy of the model is mean squared error
+It is presented where the model is trained with a dataset and forecasts the hourly wind turbine power production for 41 days
+
+  
+  
+  
+  
+  
   </p>
 </p>
 
